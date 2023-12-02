@@ -12,7 +12,10 @@
 
 🔥 From conception to completion, I've successfully led full life-cycle development projects, always on time, on budget, and in adherence to best practices.
 
+
 📫 How to reach me:
+- [![Medium](medium.JPG)](https://medium.com/@sakilansari4)
+- 
 
 
 <!--

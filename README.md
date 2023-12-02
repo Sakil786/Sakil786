@@ -2,6 +2,9 @@
 🔭 I'm a Author, Senior. Data Scientist,🎓 MTech in Machine Learning,Talks about #rlhf, #generativeai, #nlppractitioner, #largelanguagemodels, and #machinelearningsolutions.
 
 
+[![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/sakilansari/)
+
+
 <!--
 **Sakil786/Sakil786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

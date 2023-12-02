@@ -14,8 +14,10 @@
 
 
 📫 How to reach me:
-- [![Medium](medium.JPG)](https://medium.com/@sakilansari4)
-- 
+- [Medium](https://medium.com/@sakilansari4)
+- [substack](https://substack.com/@sakil?utm_source=user-menu)
+- [Kaggle](https://www.kaggle.com/sakilansari)
+- [Twitter](https://twitter.com/SakilAnsari94)
 
 
 <!--

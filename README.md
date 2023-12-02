@@ -20,6 +20,8 @@
 - [Twitter](https://twitter.com/SakilAnsari94)
 
 
+![Sakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakil786&show_icons=true&theme=radical)
+
 <!--
 **Sakil786/Sakil786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

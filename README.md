@@ -25,9 +25,13 @@
 <a href="https://github.com/Sakil786/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakil786&hide_progress=False" />
 </a>
-//
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sakil786&theme=dark)](https://git.io/streak-stats)
+------------
+  <div align="center">
+        <a href="https://git.io/streak-stats" >
+            <img src="https://streak-stats.demolab.com/?user=Sakil786&theme=dark"  />
+        </a>
+    </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakil786&hide_progress=False) -->
 
 

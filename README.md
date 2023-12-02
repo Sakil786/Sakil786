@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there. I am Sakil Ansari👋
+🔭 I'm a Author, Senior. Data Scientist,🎓 MTech in Machine Learning,Talks about #rlhf, #generativeai, #nlppractitioner, #largelanguagemodels, and #machinelearningsolutions
 
 <!--
 **Sakil786/Sakil786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

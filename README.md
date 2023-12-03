@@ -8,6 +8,7 @@
 
 
 [![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/sakilansari/)
+[![Medium](medium1.JPG)](https://medium.com/@sakilansari4)
 
 🚀 With a passion for transforming data into insights, I'm an MTech graduate in Machine Learning and an accomplished author. My journey spans the realms of Generative AI, NLP, Deep Learning, and Data Analytics.
 

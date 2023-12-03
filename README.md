@@ -12,6 +12,9 @@
 
 🔥 From conception to completion, I've successfully led full life-cycle development projects, always on time, on budget, and in adherence to best practices.
 
+### You can find my projects and previous work here:
+[**My Portoflio**](https://sakil786.github.io/devportfolio/# "**My Portoflio**")
+
 
 ### Connect with me
 |  Media |  Summary |

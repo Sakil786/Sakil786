@@ -13,11 +13,14 @@
 🔥 From conception to completion, I've successfully led full life-cycle development projects, always on time, on budget, and in adherence to best practices.
 
 
-📫 How to reach me:
-- [Medium](https://medium.com/@sakilansari4)
-- [substack](https://substack.com/@sakil?utm_source=user-menu)
-- [Kaggle](https://www.kaggle.com/sakilansari)
-- [Twitter](https://twitter.com/SakilAnsari94)
+### Connect with me
+|  Media |  Summary |
+| ------------ | ------------ |
+| [Medium](https://sakilansari4.medium.com/ "Medium")  |   My data science blog where I write data science articles|
+| [Substack](https://sakil.substack.com/ "Substack") |  My data science blog where I write data science articles |
+| [Kaggle](https://www.kaggle.com/sakilansari "Kaggle")  | My Kaggle Notebooks  |
+| [Twitter](https://twitter.com/SakilAnsari94 "Twitter") | I share data science blogs and practical machine learning tips  |
+|[Huggingface](https://huggingface.co/Sakil "Huggingface")| I fine tune the Models,create various spaces   |
 
 <a href="https://github.com/Sakil786/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sakil786&show_icons=true&theme=radical" />

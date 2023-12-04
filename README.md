@@ -45,5 +45,5 @@
         </a>
     </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakil786&hide_progress=False) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sakil786&repo=github-readme-stats)](https://github.com/Sakil786/github-readme-stats)
+
 

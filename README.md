@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> **Hi there, I'm Sakil Ansari**
 <!-- ### Hi there. I am Sakil Ansari👋-->
 
- **I'm a Author, Senior. Data Scientist,🎓 MTech in Machine Learning,Talks about #rlhf, #generativeai, #nlppractitioner, #largelanguagemodels, and #machinelearningsolutions.**
+ **I'm a Author, Lead Data Scientist,🎓 MTech in Machine Learning,Talks about #rlhf, #generativeai, #nlppractitioner, #largelanguagemodels, and #machinelearningsolutions.**
 
 
 [![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/sakilansari/)
